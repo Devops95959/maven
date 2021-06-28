@@ -1,4 +1,4 @@
-Hello every one\n
-good morning\n
-this is my first java program\n
+Hello every one.
+good morning.
+this is my first java program.
 welcome to devops
