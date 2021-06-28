@@ -1,12 +1,10 @@
-New changes done by developer
+class HelloWorld 
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World!"); 
+    }
+}
 
-some more changes dondddddddeddd
-
-
-cccccc
-ddddddddddddd
-
-chandra
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 
